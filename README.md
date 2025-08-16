@@ -2,11 +2,16 @@
 
 This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
 
+
+
 ## Installation
 
 1. Tthe repository to your local machine. ```https://github.com/bhagyalakshmi0207/Attendance-Tracker- ```
 2. Install the required packages using ```pip install -r requirements.txt```.
 3. Download the dlib models from [https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing](https://drive.google.com/file/d/1LNxSNvPNmXSITLQ4-886WWOB-sNFTmGa/view?usp=sharing) and place the data folder inside the repo
+
+Entry of the Users Dynamically!
+![Alt Text](https://github.com/bhagyalakshmi0207/Attendance-Tracker-/blob/626e390d0ca4cb0ea895d5fdd71168ff15509e7a/New%20User%20Entry.png)
 
 ## Usage
 
@@ -14,11 +19,14 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 2. Convert the dataset into ```python features_extraction_to_csv.py```.
 3. To take the attendance run ```python attendance_taker.py``` .
 4. Check the Database by ```python app.py```.
+
+Attendance Tracker According to the Dates!
 ![Alt Text](https://github.com/bhagyalakshmi0207/Attendance-Tracker-/blob/aede8493193d0a27402640ceeec7cc33a5829c7b/Tracksheet.png)
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
+
 
 
 
