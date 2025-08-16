@@ -14,11 +14,12 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 2. Convert the dataset into ```python features_extraction_to_csv.py```.
 3. To take the attendance run ```python attendance_taker.py``` .
 4. Check the Database by ```python app.py```.
-
+![Alt Text](https://github.com/bhagyalakshmi0207/Attendance-Tracker-/blob/aede8493193d0a27402640ceeec7cc33a5829c7b/Tracksheet.png)
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
+
 
 
 
